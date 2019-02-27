@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void getData(){
-        
+        String s ="我是郑帅";
     }
 }
