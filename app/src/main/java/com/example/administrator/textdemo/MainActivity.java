@@ -8,7 +8,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.zhengshuai);
         //好的很
         //好的很
         //好的很
@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
     }
     public void getData(){
-        String s ="我是  郑帅";
+        String s ="我是   郑帅";
         //郭美  辰
         //fhuewbfuwefbw
     }
