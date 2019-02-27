@@ -16,9 +16,9 @@ public class MainActivity extends AppCompatActivity {
         //好的很
         //好的很
 
-
     }
     public void getData(){
         String s ="我是  郑帅";
+        //郭美辰
     }
 }
