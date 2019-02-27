@@ -21,5 +21,6 @@ public class MainActivity extends AppCompatActivity {
     public void getData(){
         String s ="我是  郑帅";
         //郭美  辰
+        //fhuewbfuwefbw
     }
 }
